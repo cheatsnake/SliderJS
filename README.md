@@ -1,3 +1,3 @@
 # Slider-JS
  
- [![Screenshot-155.png](https://i.postimg.cc/6pn0TbFd/Screenshot-155.png)](https://postimg.cc/bZYbBgyJ)
+[![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://cheatsnake.github.io/SliderJS)
